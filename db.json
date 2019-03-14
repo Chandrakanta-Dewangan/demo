@@ -1,4 +1,5 @@
-{
+{ "Employee" :  
+    [  {
 empId:1,
 firstName:"John",
 lastName:"Jha",
@@ -33,4 +34,5 @@ lastName:"Jha",
 role:"Developer",
 location:"New York"
 }
-;
+]
+}
